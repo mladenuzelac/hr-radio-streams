@@ -10,4 +10,5 @@ Direct links to croatian radio stations streams
 * [Laganini fm Požega](http://194.145.208.251:8008/stream)
 * [Laganini fm Slavonski brod](http://194.145.208.251:8010/stream)
 * [Laganini fm Osijek ](http://194.145.208.251:8012/stream)
+* [sjeverozapa](https://azuracast.novi-net.net/radio/8000/sjeverozapad.aac)
 
